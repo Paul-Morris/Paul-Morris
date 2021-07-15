@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paul-Morris
 - 👀 I’m interested in web development (professional) / gaming development (hobby)
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing at the moment but maybe someday!
 - 📫 How to reach me: twitter @paulericmorris or linkedin.com/in/paulericmorris/
 
 <!---
